@@ -1,13 +1,13 @@
 ---
 title: "Sandip Ganguly"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/sandeep.jpeg"
 jobtitle: "Chairman"
-linkedinurl: ""
+linkedinurl: "http://www.linkedin.com/in/sandip-ganguly-74520957"
 weight: 1
 promoted: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A global leader in Digital Process Automation, Sandip Ganguly brings over 25 years of expertise in BPM, CRM, Low-Code solutions, and AI adoption. Known for driving digital transformation and innovation, he specializes in building high-performance teams and delivering business-critical technology programs worldwide.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Beyond the boardroom, Sandip is a passionate wildlife photographer and nature conservator, actively championing initiatives for biodiversity protection and ecological sustainability. His vision is to blend technology leadership with environmental stewardship, creating lasting impact for both people and the planet.
