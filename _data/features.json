@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Mangrove Planting",
+    "description": "We have planted over 10,000 mangroves in the Sundarbans.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/mangrove_logo.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Community Engagement",
+    "description": "We work closely with local communities to ensure sustainable restoration.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/community_logo.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Wildlife Protection",
+    "description": "Our efforts help protect endangered species in the Sundarbans.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/wildlife_logo.svg",
       "width": 80,
       "height": 80
     }
