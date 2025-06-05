@@ -1,23 +1,9 @@
 [
-  {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
-  },
+
   {
       "name": "Facebook",
       "link": "https://facebook.com",
       "image": "images/social/facebook.svg"
-  },
-  {
-      "name": "Email",
-      "link": "mailto:ekyllserif@example.com ",
-      "image": "images/social/email.svg"
   },
   {
       "name": "Instagram",
@@ -25,9 +11,14 @@
       "image": "images/social/instagram.svg"
   },
   {
-      "name": "Discord",
-      "link": "https://discord.com",
-      "image": "images/social/discord.svg"
+    "name": "Linkedin",
+    "link": "https://linkedin.com/company/prokreeti-welfare-trust",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Email",
+    "link": "mailto:ekyllserif@example.com ",
+    "image": "images/social/email.svg"
   }
 
 ]
